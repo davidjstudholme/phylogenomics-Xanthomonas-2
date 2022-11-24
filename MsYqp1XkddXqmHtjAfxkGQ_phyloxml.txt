@@ -1,0 +1,485 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+<phylogeny rooted="true"><clade>
+<name>OROOT</name>
+<clade>
+<branch_length>0.004920533</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. euvesicatoria pv. alangii NCPPB 1336</name>
+<branch_length>0.015142234</branch_length>
+</clade>
+<clade>
+<name>[X. campestris] pv. ionidii NCPPB 1334</name>
+<branch_length>0.018539607</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.003334951</branch_length>
+<confidence type="bootstrap">0.995</confidence>
+<clade>
+<name>X. perforans _= X. euvesicatoria pv. perforans_ DSM 18975 T</name>
+<branch_length>0.015198153</branch_length>
+</clade>
+<clade>
+<branch_length>0.009384684</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. euvesicatoria pv. allii CFBP6369</name>
+<branch_length>0.007945311</branch_length>
+</clade>
+<clade>
+<name>[X. campestris] pv. zingibericola NCPPB 4352</name>
+<branch_length>0.008081634</branch_length>
+</clade>
+</clade></clade><clade>
+<branch_length>0.001989095</branch_length>
+<confidence type="bootstrap">0.665</confidence>
+<clade>
+<branch_length>0.004276965</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>[X. campestris] pv. blepharidis NCPPB 1757</name>
+<branch_length>0.017002278</branch_length>
+</clade>
+<clade>
+<name>[X. campestris] pv. fici NCPPB 2372</name>
+<branch_length>0.018737938</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.002603600</branch_length>
+<confidence type="bootstrap">0.995</confidence>
+<clade>
+<branch_length>0.002608177</branch_length>
+<confidence type="bootstrap">0.995</confidence>
+<clade>
+<branch_length>0.003716865</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>[X. campestris] pv. convolvuli NCPPB 2498</name>
+<branch_length>0.017523404</branch_length>
+</clade>
+<clade>
+<branch_length>0.007209196</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.009803443</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. euvesicatoria pv. euvesicatoria LMG 27970 T</name>
+<branch_length>0.007060582</branch_length>
+</clade>
+<clade>
+<branch_length>0.006941395</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. euvesicatoria pv. physalidis NCPPB 1756</name>
+<branch_length>0.000900632</branch_length>
+</clade>
+<clade>
+<name>[X. campestris] pv. daturae NCPPB 2932</name>
+<branch_length>0.000753453</branch_length>
+</clade>
+</clade></clade><clade>
+<branch_length>0.006618836</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>[X. campestris] pv. obscurae NCPPB 3759</name>
+<branch_length>0.008785211</branch_length>
+</clade>
+<clade>
+<name>[X. campestris] pv. uppalii NCPPB 586</name>
+<branch_length>0.008745255</branch_length>
+</clade>
+</clade></clade></clade><clade>
+<branch_length>0.003984565</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.003558358</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.004354411</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>[X. campestris] pv. heliotropii NCPPB 2057</name>
+<branch_length>0.026575462</branch_length>
+</clade>
+<clade>
+<name>[X. campestris] pv. paulliniae NCPPB 3079</name>
+<branch_length>0.025054447</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.004374560</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>[X. campestris] pv. pennamericanum NCPPB 4349</name>
+<branch_length>0.032586534</branch_length>
+</clade>
+<clade>
+<name>[X. campestris] pv. euphorbiae NCPPB 1828</name>
+<branch_length>0.022508022</branch_length>
+</clade>
+</clade></clade><clade>
+<branch_length>0.009803356</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.055533956</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.044709000</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.036628292</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. citri pv. merremiae NCPPB 3114</name>
+<branch_length>0.013314435</branch_length>
+</clade>
+<clade>
+<name>X. citri pv. trichodesmae NCPPB 585</name>
+<branch_length>0.011785664</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.029857423</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. cissicola LMG21719 T</name>
+<branch_length>0.014354296</branch_length>
+</clade>
+<clade>
+<name>X. citri LMG 9322 T</name>
+<branch_length>0.013318974</branch_length>
+</clade>
+</clade></clade><clade>
+<branch_length>0.014016183</branch_length>
+<confidence type="bootstrap">0.999</confidence>
+<clade>
+<branch_length>0.070696066</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. phaseoli ATCC 49119 T</name>
+<branch_length>0.021416487</branch_length>
+</clade>
+<clade>
+<name>[X. axonopodis] pv. passiflorae NCPPB 2346</name>
+<branch_length>0.023949352</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.014637621</branch_length>
+<confidence type="bootstrap">0.964</confidence>
+<clade>
+<name>X. axonopodis LMG 982 T</name>
+<branch_length>0.105418746</branch_length>
+</clade>
+<clade>
+<branch_length>0.084143378</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.028115021</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. bromi CFBP1976 T</name>
+<branch_length>0.166655019</branch_length>
+</clade>
+<clade>
+<branch_length>0.031659385</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. nasturtii WHRI 8853 T</name>
+<branch_length>0.157455030</branch_length>
+</clade>
+<clade>
+<branch_length>0.033346727</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.042030044</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. fragariae PD 885 T</name>
+<branch_length>0.278252209</branch_length>
+</clade>
+<clade>
+<branch_length>0.025457339</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.064771593</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. arboricola CFBP 2528 T</name>
+<branch_length>0.082538252</branch_length>
+</clade>
+<clade>
+<name>X. euroxanthea CPBF 424 T</name>
+<branch_length>0.092046859</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.049011740</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. populi CFBP1817 T</name>
+<branch_length>0.180091069</branch_length>
+</clade>
+<clade>
+<branch_length>0.043085913</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. hortorum NCPPB 939 T</name>
+<branch_length>0.078576305</branch_length>
+</clade>
+<clade>
+<name>X. hydrangeae LMG 31884 T</name>
+<branch_length>0.077820870</branch_length>
+</clade>
+</clade></clade></clade></clade><clade>
+<branch_length>0.026732517</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.052115639</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. vesicatoria ATCC 35937 T</name>
+<branch_length>0.156220054</branch_length>
+</clade>
+<clade>
+<branch_length>0.023179299</branch_length>
+<confidence type="bootstrap">0.997</confidence>
+<clade>
+<name>X. dyei CFBP7245 T</name>
+<branch_length>0.125975216</branch_length>
+</clade>
+<clade>
+<name>X. pisi DSM 18956 T</name>
+<branch_length>0.120983744</branch_length>
+</clade>
+</clade></clade><clade>
+<branch_length>0.026995179</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.038331345</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. melonis NCPPB 3434 T</name>
+<branch_length>0.227729946</branch_length>
+</clade>
+<clade>
+<branch_length>0.027318609</branch_length>
+<confidence type="bootstrap">0.986</confidence>
+<clade>
+<name>X. cucurbitae CFBP2542 T</name>
+<branch_length>0.175490986</branch_length>
+</clade>
+<clade>
+<branch_length>0.035029313</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. cassavae CFBP 4642 T</name>
+<branch_length>0.114061598</branch_length>
+</clade>
+<clade>
+<name>X. floridensis WHRI 8848 T</name>
+<branch_length>0.105056777</branch_length>
+</clade>
+</clade></clade></clade><clade>
+<branch_length>0.052170536</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.161595208</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.007542042</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. campestris pv. raphani NCPPB 1946</name>
+<branch_length>0.037754250</branch_length>
+</clade>
+<clade>
+<branch_length>0.006810066</branch_length>
+<confidence type="bootstrap">0.706</confidence>
+<clade>
+<branch_length>0.014997577</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. campestris pv. barbareae NCPPB 983</name>
+<branch_length>0.027038009</branch_length>
+</clade>
+<clade>
+<name>X. campestris pv. incanae NCPPB 937</name>
+<branch_length>0.027148476</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.017460931</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. campestris pv. armoraciae NCPPB 347</name>
+<branch_length>0.025797958</branch_length>
+</clade>
+<clade>
+<branch_length>0.011909756</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. campestris pv. campestris ATCC 33913 T</name>
+<branch_length>0.015475510</branch_length>
+</clade>
+<clade>
+<name>X. campestris pv. aberrans NCPPB 2986</name>
+<branch_length>0.021291430</branch_length>
+</clade>
+</clade></clade></clade></clade><clade>
+<branch_length>0.009200947</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. campestris pv. papavericola NCPPB 2970</name>
+<branch_length>0.041689615</branch_length>
+</clade>
+<clade>
+<name>X. campestris pv. plantaginis NCPPB 1061</name>
+<branch_length>0.041626884</branch_length>
+</clade>
+</clade></clade><clade>
+<branch_length>0.097953195</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. maliensis LMG 27592 T</name>
+<branch_length>0.317618067</branch_length>
+</clade>
+<clade>
+<branch_length>0.180824627</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. massiliensis SN8 T</name>
+<branch_length>0.618172091</branch_length>
+</clade>
+<clade>
+<branch_length>0.149138571</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.068652479</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. theicola CFBP 4691 T</name>
+<branch_length>0.141916964</branch_length>
+</clade>
+<clade>
+<branch_length>0.029216125</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. hyacinthi CFBP 1156 T</name>
+<branch_length>0.076443905</branch_length>
+</clade>
+<clade>
+<branch_length>0.017992851</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. translucens ATCC 19319 T</name>
+<branch_length>0.091374253</branch_length>
+</clade>
+<clade>
+<branch_length>0.040570265</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. bonasiae FX4 T</name>
+<branch_length>0.018778249</branch_length>
+</clade>
+<clade>
+<name>X. surreyensis Sa3BUA13 T</name>
+<branch_length>0.019143220</branch_length>
+</clade>
+</clade></clade></clade></clade><clade>
+<branch_length>0.044714822</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.070317815</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. indica PPL560 T</name>
+<branch_length>0.059036805</branch_length>
+</clade>
+<clade>
+<branch_length>0.017875034</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. sacchari CFBP4641 T</name>
+<branch_length>0.060110221</branch_length>
+</clade>
+<clade>
+<name>X. sontii PPL1 T</name>
+<branch_length>0.058773927</branch_length>
+</clade>
+</clade></clade><clade>
+<name>X. albilineans CFBP2523 T</name>
+<branch_length>0.441453117</branch_length>
+</clade>
+</clade></clade></clade></clade></clade></clade></clade></clade></clade></clade><clade>
+<branch_length>0.021238322</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. prunicola CFBP 8353 T</name>
+<branch_length>0.144437039</branch_length>
+</clade>
+<clade>
+<branch_length>0.022654715</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>X. oryzae ICMP3125 T</name>
+<branch_length>0.134702546</branch_length>
+</clade>
+<clade>
+<name>X. vasicola NCPPB 2417 T</name>
+<branch_length>0.129297114</branch_length>
+</clade>
+</clade></clade></clade></clade></clade></clade><clade>
+<name>[X. campestris] pv. carissae NCPPB 2373</name>
+<branch_length>0.021231148</branch_length>
+</clade>
+</clade></clade></clade><clade>
+<branch_length>0.002461628</branch_length>
+<confidence type="bootstrap">0.984</confidence>
+<clade>
+<branch_length>0.004195354</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>[X. campestris] pv. clerodendri NCPPB 575</name>
+<branch_length>0.016406620</branch_length>
+</clade>
+<clade>
+<name>[X. campestris] pv. viegasii NCPPB 4351</name>
+<branch_length>0.017116387</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.002321799</branch_length>
+<confidence type="bootstrap">0.999</confidence>
+<clade>
+<branch_length>0.003038031</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>[X. campestris] pv. spermacoces NCPPB 1760</name>
+<branch_length>0.017227247</branch_length>
+</clade>
+<clade>
+<branch_length>0.004451338</branch_length>
+<confidence type="bootstrap">0.998</confidence>
+<clade>
+<name>[X. campestris] pv. lawsoniae NCPPB 579</name>
+<branch_length>0.014134801</branch_length>
+</clade>
+<clade>
+<name>[X. campestris] pv. vernoniae NCPPB 1787</name>
+<branch_length>0.012034815</branch_length>
+</clade>
+</clade></clade><clade>
+<branch_length>0.002555616</branch_length>
+<confidence type="bootstrap">0.945</confidence>
+<clade>
+<name>[X. campestris] pv. mirabilis NCPPB 4348</name>
+<branch_length>0.018771385</branch_length>
+</clade>
+<clade>
+<branch_length>0.004243832</branch_length>
+<confidence type="bootstrap">0.566</confidence>
+<clade>
+<name>X. euvesicatoria pv. alfalfae CFBP3836</name>
+<branch_length>0.016581166</branch_length>
+</clade>
+<clade>
+<name>[X. campestris] pv. coriandri NCPPB 1758</name>
+<branch_length>0.015980180</branch_length>
+</clade>
+</clade></clade></clade></clade></clade></clade></clade></phylogeny></phyloxml>
