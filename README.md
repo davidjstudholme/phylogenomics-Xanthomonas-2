@@ -37,7 +37,10 @@ ln -s ../genomes/*.contig .
 cd -
 
 ### Run PhaME
-### Shakya, M., Ahmed, S.A., Davenport, K.W. et al. Standardized phylogenetic and molecular evolutionary analysis applied to species across the microbial tree of life. Sci Rep 10, 1723 (2020). https://doi.org/10.1038/s41598-020-58356-1
+### Shakya, M., Ahmed, S.A., Davenport, K.W. et al. 
+### Standardized phylogenetic and molecular evolutionary analysis applied to species across the microbial tree of life. 
+### Sci Rep 10, 1723 (2020). 
+### https://doi.org/10.1038/s41598-020-58356-1
 
 screen
 conda activate phame_env
