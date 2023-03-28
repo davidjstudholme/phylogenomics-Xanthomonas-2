@@ -1,5 +1,5 @@
 # phylogenomics-Xanthomonas-2
-Transfer of 20 pathovars from X. campestris to X. euvesicatoria
+Transfer of 20 pathovars from _X. campestris_ to _X. euvesicatoria_
 
 ```
 ### Get this repo
