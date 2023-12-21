@@ -30,7 +30,7 @@ cd genomes
 ```
 
 ### Download genome sequences into the genomes/ directory
-The list of genomes to be downloaded by the _datasets_ tool is specified in this file: [xanthomonas_assm_accs.txt](./xanthomonas_assm_accs.txt) **Check this file**.
+The list of genomes to be downloaded by the _datasets_ tool is specified in this file: [xanthomonas_assm_accs.txt](./xanthomonas_assm_accs.txt). 
 ```
 ln -s ../phylogenomics-Xanthomonas-2/xanthomonas_assm_accs.txt .
 ln -s ../datasets .
@@ -55,7 +55,6 @@ cd -
 ```
 
 ### Set-up the ref/ directory
-**Check reference genome**
 ```
 mkdir ref
 cd ref
