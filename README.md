@@ -84,7 +84,7 @@ conda activate phame_env
 cp phylogenomics-Xanthomonas-2/phame.fasttree.ctl .
 phame ./phame.ctl
 ```
-This generates a bootstrapped tree [test_all.fasttree](./phaME_output/test_all.fasttree). **Upload this file**
+This generates a bootstrapped tree [test_all.fasttree](./phaME_output/test_all.fasttree).
 
 ### Calculate average nucleotide identity using fastANI
 This assumes that you have already created a Conda envirinment called _fastani_env_ and installed fastANI into it.
