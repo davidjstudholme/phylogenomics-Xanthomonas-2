@@ -1,0 +1,7 @@
+../phame_euvesicatoria_project/ref/X._campestris_pv._campestris_ATCC_33913_T.fasta
+../phame_euvesicatoria_project/workdir/X._axonopodis_LMG_982_T.contig
+../phame_euvesicatoria_project/workdir/X._cissicola_LMG21719_T.contig
+../phame_euvesicatoria_project/workdir/X._citri_LMG_9322_T.contig
+../phame_euvesicatoria_project/workdir/X._perforans_DSM_18975_T.contig
+../phame_euvesicatoria_project/workdir/X._phaseoli_ATCC_49119_T.contig
+../phame_euvesicatoria_project/workdir/X._euvesicatoria_pv._euvesicatoria_LMG_27970_T.contig
