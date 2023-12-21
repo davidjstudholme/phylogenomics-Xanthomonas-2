@@ -1,7 +1,7 @@
-# Phylogenomic Analysis Supports the Transfer of 20 Pathovars from Xanthomonas campestris into _Xanthomonas euvesicatoria_
+# Phylogenomic Analysis Supports the Transfer of 20 Pathovars from _Xanthomonas campestris_ into _Xanthomonas euvesicatoria_
 Transfer of 20 pathovars from _X. campestris_ to _X. euvesicatoria_
 
-**Harrison, J.; Hussain, R.M.F.; Aspin, A.; Grant, M.R.; Vicente, J.G.; Studholme, D.J. (2023)**. Phylogenomic Analysis Supports the Transfer of 20 Pathovars from Xanthomonas campestris into Xanthomonas euvesicatoria. _Taxonomy_ 3, 29-45. https://doi.org/10.3390/taxonomy3010003
+**Harrison, J.; Hussain, R.M.F.; Aspin, A.; Grant, M.R.; Vicente, J.G.; Studholme, D.J. (2023)**. Phylogenomic Analysis Supports the Transfer of 20 Pathovars from _Xanthomonas campestris_ into _Xanthomonas euvesicatoria_. _Taxonomy_ 3, 29-45. https://doi.org/10.3390/taxonomy3010003
 
 Central to that paper is a phylogenomic tree presented in Figure 1. Here we present the methods used to generate that tree and other analyses in the manuscript.
 
