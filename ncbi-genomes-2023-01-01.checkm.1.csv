@@ -1,0 +1,54 @@
+[2023-01-02 14:32:27] INFO: CheckM v1.2.2
+[2023-01-02 14:32:27] INFO: checkm qa -o 1 xanthomonas.ms ncbi-genomes-2023-01-01.checkm
+[2023-01-02 14:32:27] INFO: CheckM data: /home/djs217/checkm
+[2023-01-02 14:32:27] INFO: [CheckM - qa] Tabulating genome statistics.
+[2023-01-02 14:32:27] INFO: Calculating AAI between multi-copy marker genes.
+[2023-01-02 14:32:27] INFO: Reading HMM info from file.
+[2023-01-02 14:32:29] INFO: Parsing HMM hits to marker genes:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Bin Id                                  Marker lineage   # genomes   # markers   # marker sets   0     1     2    3   4   5+   Completeness   Contamination   Strain heterogeneity  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  GCA_019201375.1_ASM1920137v1_genomic   Xanthomonas (5)       16         1163          401        3    1154   6    0   0   0       99.94            0.68               0.00          
+  GCA_019201365.1_ASM1920136v1_genomic   Xanthomonas (5)       16         1163          401        3    1157   3    0   0   0       99.94            0.41               0.00          
+  GCA_019201265.1_ASM1920126v1_genomic   Xanthomonas (5)       16         1163          401        3    1159   1    0   0   0       99.94            0.03               0.00          
+  GCA_019201245.1_ASM1920124v1_genomic   Xanthomonas (5)       16         1163          401        3    1159   1    0   0   0       99.94            0.03               0.00          
+  GCA_019201225.1_ASM1920122v1_genomic   Xanthomonas (5)       16         1163          401        3    1157   3    0   0   0       99.94            0.36               0.00          
+  GCA_019201145.1_ASM1920114v1_genomic   Xanthomonas (5)       16         1163          401        3    1156   4    0   0   0       99.94            0.22               0.00          
+  GCA_019201105.1_ASM1920110v1_genomic   Xanthomonas (5)       16         1163          401        3    1158   2    0   0   0       99.94            0.07               0.00          
+  GCA_019201065.1_ASM1920106v1_genomic   Xanthomonas (5)       16         1163          401        3    1155   5    0   0   0       99.94            0.43               0.00          
+  GCA_019193005.1_ASM1919300v1_genomic   Xanthomonas (5)       16         1163          401        3    1156   4    0   0   0       99.94            0.61               0.00          
+  GCA_019192985.1_ASM1919298v1_genomic   Xanthomonas (5)       16         1163          401        3    1159   1    0   0   0       99.94            0.03               0.00          
+  GCA_020813175.1_ASM2081317v1_genomic   Xanthomonas (5)       16         1163          401        4    1154   5    0   0   0       99.89            0.48               0.00          
+  GCA_020813115.1_ASM2081311v1_genomic   Xanthomonas (5)       16         1163          401        4    1158   1    0   0   0       99.89            0.03               0.00          
+  GCA_020813085.1_ASM2081308v1_genomic   Xanthomonas (5)       16         1163          401        4    1158   1    0   0   0       99.89            0.12               0.00          
+  GCA_020813075.1_ASM2081307v1_genomic   Xanthomonas (5)       16         1163          401        4    1157   2    0   0   0       99.89            0.11               0.00          
+  GCA_020813055.1_ASM2081305v1_genomic   Xanthomonas (5)       16         1163          401        4    1158   1    0   0   0       99.89            0.12               0.00          
+  GCA_020813015.1_ASM2081301v1_genomic   Xanthomonas (5)       16         1163          401        4    1146   12   1   0   0       99.89            1.71               6.67          
+  GCA_020813005.1_ASM2081300v1_genomic   Xanthomonas (5)       16         1163          401        4    1155   4    0   0   0       99.89            0.53               0.00          
+  GCA_020731405.1_ASM2073140v1_genomic   Xanthomonas (5)       16         1163          401        4    1158   1    0   0   0       99.89            0.03               0.00          
+  GCA_019201485.1_ASM1920148v1_genomic   Xanthomonas (5)       16         1163          401        4    1158   1    0   0   0       99.89            0.03               0.00          
+  GCA_019201465.1_ASM1920146v1_genomic   Xanthomonas (5)       16         1163          401        4    1156   3    0   0   0       99.89            0.15               0.00          
+  GCA_019201445.1_ASM1920144v1_genomic   Xanthomonas (5)       16         1163          401        4    1158   1    0   0   0       99.89            0.03               0.00          
+  GCA_019201425.1_ASM1920142v1_genomic   Xanthomonas (5)       16         1163          401        4    1158   1    0   0   0       99.89            0.03               0.00          
+  GCA_019201345.1_ASM1920134v1_genomic   Xanthomonas (5)       16         1163          401        4    1155   4    0   0   0       99.89            0.37               0.00          
+  GCA_019201305.1_ASM1920130v1_genomic   Xanthomonas (5)       16         1163          401        4    1154   5    0   0   0       99.89            0.30               0.00          
+  GCA_019201285.1_ASM1920128v1_genomic   Xanthomonas (5)       16         1163          401        4    1158   1    0   0   0       99.89            0.03               0.00          
+  GCA_019201205.1_ASM1920120v1_genomic   Xanthomonas (5)       16         1163          401        4    1156   2    1   0   0       99.89            0.18               0.00          
+  GCA_019201165.1_ASM1920116v1_genomic   Xanthomonas (5)       16         1163          401        4    1159   0    0   0   0       99.89            0.00               0.00          
+  GCA_019201075.1_ASM1920107v1_genomic   Xanthomonas (5)       16         1163          401        4    1156   3    0   0   0       99.89            0.42               0.00          
+  GCA_019201325.1_ASM1920132v1_genomic   Xanthomonas (5)       16         1163          401        4    1157   1    1   0   0       99.87            0.53               0.00          
+  GCA_020813315.1_ASM2081331v1_genomic   Xanthomonas (5)       16         1163          401        6    1156   1    0   0   0       99.85            0.03               0.00          
+  GCA_020812975.1_ASM2081297v1_genomic   Xanthomonas (5)       16         1163          401        6    1155   2    0   0   0       99.85            0.16               0.00          
+  GCA_019201405.1_ASM1920140v1_genomic   Xanthomonas (5)       16         1163          401        5    1154   4    0   0   0       99.82            0.32               0.00          
+  GCA_019201545.1_ASM1920154v1_genomic   Xanthomonas (5)       16         1163          401        4    1156   3    0   0   0       99.81            0.34               0.00          
+  GCA_020813135.1_ASM2081313v1_genomic   Xanthomonas (5)       16         1163          401        5    1158   0    0   0   0       99.77            0.00               0.00          
+  GCA_019201525.1_ASM1920152v1_genomic   Xanthomonas (5)       16         1163          401        5    1151   7    0   0   0       99.76            0.93               0.00          
+  GCA_020813295.1_ASM2081329v1_genomic   Xanthomonas (5)       16         1163          401        5    1155   3    0   0   0       99.64            0.53              33.33          
+  GCA_020813155.1_ASM2081315v1_genomic   Xanthomonas (5)       16         1163          401        7    1155   1    0   0   0       99.64            0.12               0.00          
+  GCA_020812955.1_ASM2081295v1_genomic   Xanthomonas (5)       16         1163          401        5    1150   7    1   0   0       99.64            1.02              10.00          
+  GCA_019201185.1_ASM1920118v1_genomic   Xanthomonas (5)       16         1163          401        5    1157   1    0   0   0       99.64            0.03               0.00          
+  GCA_019201115.1_ASM1920111v1_genomic   Xanthomonas (5)       16         1163          401        5    1157   1    0   0   0       99.62            0.25               0.00          
+  GCA_020813195.1_ASM2081319v1_genomic   Xanthomonas (5)       16         1163          401        20   1137   6    0   0   0       99.40            0.70               0.00          
+  GCA_020812995.1_ASM2081299v1_genomic   Xanthomonas (5)       16         1163          401        20   1135   8    0   0   0       99.40            0.86               0.00          
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023-01-02 14:32:54] INFO: { Current stage: 0:00:27.297 || Total: 0:00:27.297 }
